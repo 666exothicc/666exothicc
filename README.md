@@ -6,8 +6,8 @@
 
 
 <p align="center">
-<a href= "https://youtu.be/ZmF19S1o5h4"><img src="https://icons8.com/icon/QRKcMdlbi1ag/esc"/></a>
-<a href= "https://discordapp.com/users/508928052236124160/"><img src="https://icons8.com/icon/jo0tWg8hu8nx/discord"/></a>
+<a href= "https://youtu.be/ZmF19S1o5h4"><img src="https://icons8.com/icon/QRKcMdlbi1ag/esc.png"/></a>
+<a href= "https://discordapp.com/users/508928052236124160/"><img src="https://icons8.com/icon/jo0tWg8hu8nx/discord.png"/></a>
 </p>
 
 <!--
