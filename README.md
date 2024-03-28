@@ -1,4 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=666exothicc.666exothicc" />
+
+<p align="left">
+  <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNlYWRuc25yc2tnOXdsb2g0cDNseGRwenkzMTI3dWEzZjV2cXhlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wAyLMQHWdkYAAO2RSd/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "@666exothicc><img src="https://icons8.com/icon/QRKcMdlbi1ag/esc"/></a>
+<a href= "https://discordapp.com/users/508928052236124160/"><img src="https://icons8.com/icon/jo0tWg8hu8nx/discord"/></a>
+</p>
 
 <!--
 **666exothicc/666exothicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
