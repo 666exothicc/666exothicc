@@ -6,10 +6,10 @@
 
 <div align="center"> 
   <a href="https://youtu.be/ZmF19S1o5h4">
-    <img src="https://img.icons8.com/?size=50&id=QRKcMdlbi1ag&format=png" />
+    <img src="https://img.icons8.com/?size=56&id=THZp9fn_HhcF&format=png" />
   </a>
   <a href="https://discordapp.com/users/508928052236124160/" target="_blank">
-    <img src="https://img.icons8.com/?size=50&id=jo0tWg8hu8nx&format=png" target="_blank" />
+    <img src="https://img.icons8.com/?size=56&id=6x2kochRVv1E&format=png" target="_blank" />
   </a>
 </div>
 
