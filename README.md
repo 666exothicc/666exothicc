@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=666exothicc.666exothicc" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=&color=F7228F&random=false&width=435&lines=who+am+i%3F;%3F+%3F+%3F;nyx+%E2%99%A1+%40666exothicc" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=&color=F7228F&random=false&width=435&lines=who+am+i%3F;%3F+%3F+%3F" alt="Typing SVG" /></a>
 
 <p align="left">
   <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNlYWRuc25yc2tnOXdsb2g0cDNseGRwenkzMTI3dWEzZjV2cXhlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wAyLMQHWdkYAAO2RSd/giphy.gif">
