@@ -15,6 +15,13 @@
   </a>
 </div>
 
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/666exothicc/666exothicc/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <!--
 **666exothicc/666exothicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
