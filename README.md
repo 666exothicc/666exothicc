@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=666exothicc.666exothicc" />
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=&color=F7228F&random=false&width=435&lines=who+am+i%3F;%3F+%3F+%3F" alt="Typing SVG" /></a>
 
 <p align="left">
@@ -15,12 +13,9 @@
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/666exothicc/666exothicc/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+![github contribution grid snake animation](https://raw.githubusercontent.com/666exothicc/666exothicc/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=666exothicc.666exothicc" />
 
 <!--
 **666exothicc/666exothicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
